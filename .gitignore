@@ -1,0 +1,12 @@
+# Claude Code local config
+.claude/
+
+# Test artifacts
+captcha_check.png
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
