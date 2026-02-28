@@ -43,7 +43,7 @@ Search papers, browse journals, check indexing status, download PDFs, and export
 #### 1. Install Chrome DevTools MCP server
 
 ```bash
-claude mcp add chrome-devtools -- npx -y @anthropic-ai/chrome-devtools-mcp@latest
+claude mcp add chrome-devtools -- npx -y chrome-devtools-mcp@latest
 ```
 
 #### 2. Install CNKI skills
@@ -155,7 +155,7 @@ agents/
 #### 1. 安装 Chrome DevTools MCP 服务器
 
 ```bash
-claude mcp add chrome-devtools -- npx -y @anthropic-ai/chrome-devtools-mcp@latest
+claude mcp add chrome-devtools -- npx -y chrome-devtools-mcp@latest
 ```
 
 #### 2. 安装 CNKI 技能
